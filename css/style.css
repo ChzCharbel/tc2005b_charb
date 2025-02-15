@@ -35,3 +35,11 @@ footer {
 .link  {
   color: rgb(247, 170, 247);
 }
+
+button {
+  background: #333;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+}

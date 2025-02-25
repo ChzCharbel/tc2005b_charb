@@ -1,0 +1,26 @@
+{
+  "name": "tc2005b_charb",
+  "version": "1.0.0",
+  "description": "Repositorio para los laboratorios de la clase TC2005b",
+  "homepage": "https://github.com/ChzCharbel/tc2005b_charb#readme",
+  "bugs": {
+    "url": "https://github.com/ChzCharbel/tc2005b_charb/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChzCharbel/tc2005b_charb.git"
+  },
+  "license": "MIT",
+  "author": "Charbel Chavez",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}

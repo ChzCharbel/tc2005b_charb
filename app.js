@@ -23,5 +23,3 @@ app.use((request, response, next) => {
   //Manda la respuesta
   response.send("¡Hola mundo!");
 });
-
-app.listen(3000);

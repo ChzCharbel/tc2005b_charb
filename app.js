@@ -23,3 +23,6 @@ app.use((request, response, next) => {
   //Manda la respuesta
   response.send("¡Hola mundo!");
 });
+
+app.listen(3000);
+console.log("Servidor corriendo en http://localhost:3000");
